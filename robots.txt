@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enockwest.github.io/Website-hub/sitemap.xml
